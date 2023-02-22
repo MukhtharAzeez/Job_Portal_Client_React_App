@@ -181,7 +181,7 @@ export function Create() {
                     }}
                 >
                     <img
-                        src={""}
+                        src={"https://res.cloudinary.com/dr2hks7gt/image/upload/v1677066345/companyLogin_fgmzqb.webp"}
                         alt=""
                         width={480}
                         height={480}

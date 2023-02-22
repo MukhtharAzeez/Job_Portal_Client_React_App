@@ -4,7 +4,7 @@ import { Login } from '../../components/Common'
 
 function CompanyLogin() {
     return (
-        <Login type={'company'} image={""} color={"#082955"} />
+        <Login type={'company'} image={"https://res.cloudinary.com/dr2hks7gt/image/upload/v1677066345/companyLogin_fgmzqb.webp"} color={"#082955"} />
     )
 }
 

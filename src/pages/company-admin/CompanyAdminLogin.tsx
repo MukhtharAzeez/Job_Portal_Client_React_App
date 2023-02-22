@@ -6,7 +6,7 @@ import { Login } from '../../components/Common'
 
 function CompanyAdminLogin() {
     return (
-        <Login type={'companyAdmin'} image={""} color={"#dc8a64"} />
+        <Login type={'companyAdmin'} image={"https://res.cloudinary.com/dr2hks7gt/image/upload/v1677066344/companyAdminLogin_guvofb.webp"} color={"#dc8a64"} />
     )
 }
 

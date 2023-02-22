@@ -108,7 +108,7 @@ export function SignUp() {
                     }}
                 >
                     <img
-                        src={""}
+                        src={"https://res.cloudinary.com/dr2hks7gt/image/upload/v1677066345/userSignup_u9foev.svg"}
                         alt=""
                         width={480}
                         height={480}
